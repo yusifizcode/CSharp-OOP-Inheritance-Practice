@@ -6,32 +6,63 @@ namespace CSharp_OOP_Inheritance_Practice
 {
     internal class Library
     {
-        public Book[] Books = new Book[0];
+        public Book[] Books;
 
-        public Book[] AddBook(Book[] booksFromUser)
+        int a = 0;
+        public Book[] AddBook(Book book)
         {
-            if (Books.Length>0)
-            {
+            Books[a++] = book;
+            return Books;
+        }
 
-            Book[] books = new Book[Books.Length + booksFromUser.Length];
+        public Book[] GetFilteredBooks(string genre)
+        {
+            int n = 0;
             for (int i = 0; i < Books.Length; i++)
             {
-                books[i] = Books[i];
+                if (Books[i].Genre==genre)
+                {
+                    n++;
+                }
             }
 
-            for (int i = Books.Length; i < books.Length; i++)
-            {
-                books[i] = booksFromUser[i];
-            }
-            
-            this.Books = books;
-            return this.Books;
+            Book[] newBooks = new Book[n];
+            int j = 0;
 
-            }
-            else
+            for (int i = 0; i < newBooks.Length; i++)
             {
-                this.Books = booksFromUser;
-                return this.Books;
+                newBooks[j] = Books[i];
+                j++;
+            }
+            return newBooks;
+
+        }
+        public Book[] GetFiltererdBooks(double minPrice, double maxPrice)
+        {
+            int count = 0;
+            for (int i = 0; i < Books.Length; i++)
+            {
+                if (Books[i].Price >= minPrice && Books[i].Price <= maxPrice)
+                {
+                    count++;
+                }
+            }
+            Book[] newBooks = new Book[count];
+            int j = 0;
+
+            for (int i = 0; i < newBooks.Length; i++)
+            {
+                newBooks[j] = Books[i];
+                j++;
+            }
+            return newBooks;
+        }
+
+        public void BookInfo(Book[] arr)
+        {
+            foreach (var item in arr)
+            {
+                Console.WriteLine($"Name:{item.Name} Genre:{item.Genre} No:{item.No} Price:{item.Price} Count:{item.Count}");
             }
         }
     }

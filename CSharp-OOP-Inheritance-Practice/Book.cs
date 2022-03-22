@@ -8,7 +8,11 @@ namespace CSharp_OOP_Inheritance_Practice
     {
         public string Genre;
 
-        public Book(int no, string name, int price, string genre, int count = 0):base(no,name,price)
+        public Book(int no, string name, double price, string genre, int count):base(no,name,price,count)
+        {
+            Genre = genre;
+        }
+        public Book(int no, string name, double price, string genre) : base(no, name, price)
         {
             Genre = genre;
         }
