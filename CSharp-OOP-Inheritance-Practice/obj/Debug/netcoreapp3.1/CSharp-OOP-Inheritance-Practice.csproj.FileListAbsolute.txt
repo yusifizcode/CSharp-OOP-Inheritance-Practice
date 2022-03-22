@@ -1,0 +1,14 @@
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Inheritance-Practice\CSharp-OOP-Inheritance-Practice\bin\Debug\netcoreapp3.1\CSharp-OOP-Inheritance-Practice.exe
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Inheritance-Practice\CSharp-OOP-Inheritance-Practice\bin\Debug\netcoreapp3.1\CSharp-OOP-Inheritance-Practice.deps.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Inheritance-Practice\CSharp-OOP-Inheritance-Practice\bin\Debug\netcoreapp3.1\CSharp-OOP-Inheritance-Practice.runtimeconfig.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Inheritance-Practice\CSharp-OOP-Inheritance-Practice\bin\Debug\netcoreapp3.1\CSharp-OOP-Inheritance-Practice.runtimeconfig.dev.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Inheritance-Practice\CSharp-OOP-Inheritance-Practice\bin\Debug\netcoreapp3.1\CSharp-OOP-Inheritance-Practice.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Inheritance-Practice\CSharp-OOP-Inheritance-Practice\bin\Debug\netcoreapp3.1\CSharp-OOP-Inheritance-Practice.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Inheritance-Practice\CSharp-OOP-Inheritance-Practice\obj\Debug\netcoreapp3.1\CSharp-OOP-Inheritance-Practice.csproj.AssemblyReference.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Inheritance-Practice\CSharp-OOP-Inheritance-Practice\obj\Debug\netcoreapp3.1\CSharp-OOP-Inheritance-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Inheritance-Practice\CSharp-OOP-Inheritance-Practice\obj\Debug\netcoreapp3.1\CSharp-OOP-Inheritance-Practice.AssemblyInfoInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Inheritance-Practice\CSharp-OOP-Inheritance-Practice\obj\Debug\netcoreapp3.1\CSharp-OOP-Inheritance-Practice.AssemblyInfo.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Inheritance-Practice\CSharp-OOP-Inheritance-Practice\obj\Debug\netcoreapp3.1\CSharp-OOP-Inheritance-Practice.csproj.CoreCompileInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Inheritance-Practice\CSharp-OOP-Inheritance-Practice\obj\Debug\netcoreapp3.1\CSharp-OOP-Inheritance-Practice.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Inheritance-Practice\CSharp-OOP-Inheritance-Practice\obj\Debug\netcoreapp3.1\CSharp-OOP-Inheritance-Practice.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Inheritance-Practice\CSharp-OOP-Inheritance-Practice\obj\Debug\netcoreapp3.1\CSharp-OOP-Inheritance-Practice.genruntimeconfig.cache
